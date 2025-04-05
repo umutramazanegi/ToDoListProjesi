@@ -1,0 +1,13 @@
+﻿Create Table Categories(
+CategoryId serial primary key,
+CategoryName Varchar(100) not null)
+
+CREATE TABLE ToDoLists (
+    ToDoListId serial PRIMARY KEY,
+    Title VARCHAR(200) NOT NULL,
+    Description VARCHAR(1000),
+    status BIT, -- boolean veri tipi daha yaygın kullanılır, ama bit de çalışır.
+    Priority VARCHAR(50),
+    CategoryId INT,
+    FOREIGN KEY (CategoryId) REFERENCES Categories(CategoryId) ON DELETE CASCADE
+); -- <-- Eksik olan kapanış parantezi ve noktalı virgül buraya eklendi.

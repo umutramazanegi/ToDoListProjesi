@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|c:\\github\\todolistprojesi\\todolistprojesi\\todolistprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|solutionrelative:todolistprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|c:\\github\\todolistprojesi\\todolistprojesi\\todolistprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|solutionrelative:todolistprojesi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|c:\\github\\todolistprojesi\\todolistprojesi\\todolistprojesi\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|solutionrelative:todolistprojesi\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|c:\\github\\todolistprojesi\\todolistprojesi\\todolistprojesi\\frmtodolistapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|solutionrelative:todolistprojesi\\frmtodolistapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|c:\\github\\todolistprojesi\\todolistprojesi\\todolistprojesi\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F7F869C-3BAC-40A2-B31D-BD6AEEC3708B}|ToDoListProjesi\\ToDoListProjesi.csproj|solutionrelative:todolistprojesi\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCategory.cs",
+              "DocumentMoniker": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "ToDoListProjesi\\FrmCategory.cs",
+              "ToolTip": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmCategory.cs",
+              "RelativeToolTip": "ToDoListProjesi\\FrmCategory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:58:26.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoListProjesi\\Form1.cs",
+              "ToolTip": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\Form1.cs*",
+              "RelativeToolTip": "ToDoListProjesi\\Form1.cs*",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAmwKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:21:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmToDoListApp.cs",
+              "DocumentMoniker": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmToDoListApp.cs",
+              "RelativeDocumentMoniker": "ToDoListProjesi\\FrmToDoListApp.cs",
+              "ToolTip": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmToDoListApp.cs",
+              "RelativeToolTip": "ToDoListProjesi\\FrmToDoListApp.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBIAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:30:20.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmCategory.cs",
+              "RelativeDocumentMoniker": "ToDoListProjesi\\FrmCategory.cs",
+              "ToolTip": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\FrmCategory.cs [Design]",
+              "RelativeToolTip": "ToDoListProjesi\\FrmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:32:17.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\Form1.cs",
+              "RelativeDocumentMoniker": "ToDoListProjesi\\Form1.cs",
+              "ToolTip": "C:\\Github\\ToDoListProjesi\\ToDoListProjesi\\ToDoListProjesi\\Form1.cs [Design]*",
+              "RelativeToolTip": "ToDoListProjesi\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T09:27:58.747Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
